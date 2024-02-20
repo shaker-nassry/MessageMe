@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162753424182",
+    "project_id": "messageme-317db",
+    "storage_bucket": "messageme-317db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162753424182:android:41a6dbeda5682563f42197",
+        "android_client_info": {
+          "package_name": "com.example.messageme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpvcXluod235MBMzfQBcvBel4V2HdmG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
