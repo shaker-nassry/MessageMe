@@ -133,6 +133,7 @@ class _ChatScreenState extends State<ChatScreen> {
                             'time': FieldValue.serverTimestamp(),
                           });
                           messageController.clear();
+                          messageText = null ;
                         }},
                       icon: Icon(Icons.send, color: Colors.white),
                     ),
